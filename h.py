@@ -1,0 +1,2 @@
+import fernet
+fernet.Encrypter
